@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahyichudah.vaibhavbehl.com/sitemap.xml
